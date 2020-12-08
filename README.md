@@ -8,10 +8,10 @@ Script Tools DDOS Dengan Python
 
 2. Change Directory
 
---> cd ddos.py
+--> cd ddos1.py
 
 3. Run Script
 
---> python ddos.py
+--> python ddos1.py
 
 *) Thanks to Hidayat Code & Official Member of JogjaXploit
